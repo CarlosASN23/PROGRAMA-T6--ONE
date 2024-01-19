@@ -1,0 +1,15 @@
+# Jogo Adivinhe o número secreto
+
+## Complementação da versão anterior do jogo de mesmo nome, porém com a inserção de novas funcionalidades e mudanças na estilizações.
+
+- Inserção de botões e formulários;
+- Inserções de funcionalidades responsivas, como responsiveVoice;
+- Aplicação de funções e rafatoramento do código;
+
+Desenvolvido através da linguagem JavaScript e implementação HTML e CSS. 
+**Funcionalidades do Jogo:**
+
+- Ao entrar no jogo será requisitado permissão ao usuário para que seja possível executar a função responsiveVoice;
+- Na tela inicial haverá um campo onde o usuário informará um número entre 1 e 10 a fim de vencer o jogo;
+- Para validar o número de chute deve-se clicar no botão "Chute" e caso o número informado esteja errado o programa informará dicas sobre o número secreto (Se ele é maior ou menor do que o número do usuário);
+- Ao acertar o número o botão 'Novo Jogo' é habilitado para que o usuário possa iniciar uma nova rodada e programa possa gerar outro numero aleatório como número secreto. 
