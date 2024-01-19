@@ -1,0 +1,5 @@
+#Jogo Advinhe o número secreto
+Desenvolvido através da linguagem JavaScript e implementação HTML e CSS. 
+Funcionalidades do Jogo:
+  -Ao entrar na pagina inicial do programa, será requisitado ao usuário a inserção de um número aleatório de 1 a 100 através do comando alert
+  -Caso o número informado seja menor ou maior, será exibido uma mensagem ao usuário o informando com tais dicas até que o mesmo acerte o número 
